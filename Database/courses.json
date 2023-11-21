@@ -1,0 +1,65 @@
+[
+	{
+		"_id": "C1",
+		"name": "Web Dev",
+		"color": "#445566",
+		"number": "CS4550",
+		"term": "Fall 2023 Semester Full Term",
+		"startDate": "2023-09-10",
+		"endDate": "2023-12-15"
+	},
+	{
+		"_id": "C2",
+		"name": "Gender Studies",
+		"color": "#DDAA77",
+		"number": "GS1010",
+		"term": "Spring 2024 Semester Full Term",
+		"startDate": "2024-01-10",
+		"endDate": "2024-05-15"
+	},
+	{
+		"_id": "C3",
+		"name": "Sex Ed",
+		"color": "#FF22AA",
+		"number": "SEX069",
+		"term": "Fall 2022 Semester Full Term",
+		"startDate": "2022-09-10",
+		"endDate": "2022-12-15"
+	},
+	{
+		"_id": "C4",
+		"name": "Stocks for Dummies",
+		"color": "#11AA88",
+		"number": "SN101",
+		"term": "Fall 2021 Semester Full Term",
+		"startDate": "2021-09-10",
+		"endDate": "2021-12-15"
+	},
+	{
+		"_id": "C5",
+		"name": "Underwater BasketWeaving",
+		"color": "#0077CC",
+		"number": "UW001",
+		"term": "Fall 2023 Semester Full Term",
+		"startDate": "2023-09-10",
+		"endDate": "2023-12-15"
+	},
+	{
+		"_id": "C6",
+		"name": "Fundamentals of TIKTOK",
+		"color": "#550055",
+		"number": "FT111",
+		"term": "Spring 2024",
+		"startDate": "2024-01-10",
+		"endDate": "2024-05-15"
+	},
+	{
+		"_id": "C7",
+		"name": "Entrepreneurship",
+		"color": "#AAAA00",
+		"number": "BS122",
+		"term": "Spring 2024",
+		"startDate": "2024-01-10",
+		"endDate": "2024-05-15"
+	}
+]
