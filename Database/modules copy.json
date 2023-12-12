@@ -1,0 +1,50 @@
+[
+	{
+		
+		"name": "Introduction to Web Development",
+		"description": "Basic principles of Web Development",
+		"course": "C1"
+	},
+	{
+		
+		"name": "Week 1 - Intro",
+		"description": "lorem impsum dolor sit amet",
+		"course": "C1"
+	},
+	{
+		
+		"name": "Week 2 - Intro pt 2",
+		"description": "lorem impsum dolor sit amet",
+		"course": "C1"
+	},
+	{
+		
+		"name": "Introduction to Gender Studies",
+		"description": "lorem impsum dolor sit amet",
+		"course": "C2"
+	},
+	{
+		
+		"name": "week 1",
+		"description": "lorem impsum dolor sit amet",
+		"course": "C2"
+	},
+	{
+		
+		"name": "week 2",
+		"description": "lorem impsum dolor sit amet",
+		"course": "C2"
+	},
+	{
+		
+		"name": "Introduction to Sex Ed",
+		"description": "What is Sex?",
+		"course": "C3"
+	},
+	{
+		
+		"name": "The birds and the bees",
+		"description": "How babies are made",
+		"course": "C3"
+	}
+]

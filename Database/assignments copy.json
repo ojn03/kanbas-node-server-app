@@ -1,0 +1,11 @@
+[
+	{  "title": "Propulsion Assignment", "course": "C1" ,"due" : "01/23/4567"},
+	{  "title": "Combustion Analysis", "course": "C1" ,"due" : "01/23/4567"},
+	{  "title": "Nozzle Design Project", "course": "C1" ,"due" : "01/23/4567"},
+	{  "title": "Aerodynamics Quiz", "course": "C2" ,"due" : "01/23/4567"},
+	{  "title": "Flow Analysis", "course": "C2" ,"due" : "01/23/4567"},
+	{  "title": "Heating Analysis", "course": "C2" ,"due" : "01/23/4567"},
+	{  "title": "Structural Design Task", "course": "C3" ,"due" : "01/23/4567"},
+	{  "title": "Orbital Calculations", "course": "C3" ,"due" : "01/23/4567"},
+	{  "title": "Systems Engineering Exam", "course": "C3" ,"due" : "01/23/4567"}
+]
